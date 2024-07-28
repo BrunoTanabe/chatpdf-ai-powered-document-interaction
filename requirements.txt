@@ -1,0 +1,10 @@
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+langchain==0.2.10
+langchain-groq==0.1.6
+langchain-community==0.2.9
+langchain-openai==0.1.17
+sentence-transformers==3.0.1
+faiss-gpu==1.7.2
+streamlit==1.36.0
+langchain-huggingface==0.0.3

@@ -1,0 +1,21 @@
+[theme]
+base="dark"
+primaryColor="#C70039"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FFFFFF"
+font="sans serif"
+
+[server]
+enableStaticServing = true
+
+[logger]
+level="error"
+
+[client]
+showErrorDetails = false
+toolbarMode = "viewer"
+
+[browser]
+serverPort = 8501
+
